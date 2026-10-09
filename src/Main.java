@@ -48,6 +48,8 @@ public class Main {
             }
         } while (opcion != 6);
         teclado.close();
+
+        caja.abrir(1212);
     }
 }
 
